@@ -1,4 +1,4 @@
-# SGFLibrary
+# GoForge
 ## Envisioning a Unified SGF Ecosystem
 
 ### My Vision: A Singular Nexus for SGF Files
